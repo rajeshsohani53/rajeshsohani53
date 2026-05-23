@@ -37,12 +37,19 @@
 
 ---
 
+## 🚀 What I'm Building
+
+- 🧠 **GPT-style LLM from Scratch** — Building a transformer-based language model from ground up to deeply understand how LLMs work internally
+- 📐 **System Design** — Learning scalable system architecture, databases, caching, load balancing and distributed systems
+
+---
+
 ## 📌 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [dsa-daily-practice](https://github.com/rajeshsohani53/dsa-daily-practice) | Daily DSA problem solving — Two Pointer, Sliding Window, Sorting, KMP and more | Java |
-| [Doc-qa-rag](https://github.com/rajeshsohani53/Doc-qa-rag) | Document Q&A system using Retrieval Augmented Generation | Python |
+| [Doc-qa-rag](https://github.com/rajeshsohani53/Doc-qa-rag) | Document Q&A system using Retrieval Augmented Generation (RAG) | Python |
 | [weekly-report-system](https://github.com/rajeshsohani53/weekly-report-system) | AI-powered weekly developer report generator | Python, LangChain |
 
 ---
