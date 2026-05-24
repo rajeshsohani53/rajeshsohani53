@@ -68,6 +68,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsohani53&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajeshsohani53&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshsohani53&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
