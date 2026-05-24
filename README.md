@@ -57,15 +57,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsohani53&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="./github-metrics.svg" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="./github-languages.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rajeshsohani53&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsohani53&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
