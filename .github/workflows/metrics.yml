@@ -22,8 +22,7 @@ jobs:
           user: rajeshsohani53
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories
-          base_indepth: yes
+          base: header
           config_timezone: Asia/Kolkata
           output_action: commit
           committer_message: "chore: update github-metrics.svg"
