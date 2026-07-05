@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🎓 Final Year **B.E. Computer Engineering** student
+- 🎓 Final Year **B.TECH. Computer Engineering** student
 - 💼 **Java Full Stack Intern** at Cyber Success Deccan *(via Campus Connect)*
 - 🏆 Selected for **Data Science Internship** at Plexus Skills Pvt. Ltd., Pune *(via Campus Connect)*
 - 🤖 Currently building a **GPT-style LLM from scratch**
