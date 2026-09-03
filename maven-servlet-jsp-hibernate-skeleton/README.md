@@ -5,7 +5,7 @@ Download this folder as a ZIP, extract it, open it in your IDE, and start coding
 
 ## What's included
 
-- **Maven `war` project** — deployable to any Servlet 6.0 container (Tomcat 10+, Jetty, etc.)
+- **Maven `war` project** — targets Servlet 6.0 / JSP 3.1, matching **Tomcat 10.1.x**
 - **Jakarta Servlet + JSP APIs** (`provided` scope — supplied by the container)
 - **JSTL** for tags like `<c:forEach>` in JSP pages
 - **Hibernate ORM 6** for object-relational mapping
@@ -37,12 +37,10 @@ src/main/webapp/
    ```
    mvn clean package
    ```
-4. Run it with the bundled Tomcat Maven plugin:
-   ```
-   mvn tomcat7:run
-   ```
-   or deploy `target/servlet-jsp-hibernate-skeleton.war` to your own Tomcat's `webapps/` folder.
-5. Open `http://localhost:8080/` and follow the link to `/users`.
+4. Deploy `target/servlet-jsp-hibernate-skeleton.war` to your Tomcat 10.1's `webapps/` folder
+   (rename it to `ROOT.war` first if you want it served from `/`).
+5. Start Tomcat and open `http://localhost:8080/` (or `http://localhost:8080/servlet-jsp-hibernate-skeleton/`
+   if you kept the default WAR name), then follow the link to `/users`.
 
 ## Next steps
 
